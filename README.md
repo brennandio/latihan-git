@@ -3,6 +3,6 @@
 ada code baru
 CODE123CODE
 ada code baru
-CODECODECODECODEabcabcabc
+CODECODECODECODEabcabcabcdddd
 CODE123CODE
 CODE123CODE
