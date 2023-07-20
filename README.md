@@ -1,5 +1,7 @@
 # latihan-git
 
 ada code baru
+CODE123CODE
 ada code baru
-CODECODECODECODE
+CODE123CODE
+CODE123CODE
