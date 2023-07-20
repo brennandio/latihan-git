@@ -1,12 +1,11 @@
 # latihan-git
 
-staging 1
 CODE123CODE
-staging 2
+ini master 1
 ada code baru
-staging 3
+ini master 2
 CODECODECODECODEabcabcabcdddd
-staging 4
+ini master 3
 CODE123CODE
+ini master 4
 CODE123CODE
-staging 5
