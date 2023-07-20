@@ -2,4 +2,4 @@
 
 ada code baru
 ada code baru
-CODECODECODECODEabcabcabc
+CODECODECODECODEabcabcabcdddd
