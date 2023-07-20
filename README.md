@@ -1,6 +1,5 @@
 # latihan-git
 
-ada code baru
 staging 1
 CODE123CODE
 staging 2
