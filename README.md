@@ -1,5 +1,5 @@
 # latihan-git
-
+code baru
 ini master 1
 ada code baru
 ada code baru
